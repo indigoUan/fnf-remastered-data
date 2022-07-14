@@ -5,6 +5,7 @@
         {
             "obj": "dailyImageDisplay",
             "vars": {
+                "flipX": true,
                 "x": 30,
                 "y": 15
             }
