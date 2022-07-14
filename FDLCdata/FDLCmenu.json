@@ -1,0 +1,13 @@
+{
+    "dlcs": ["week8", "week9"],
+
+    "layouts": [
+        {
+            "obj": "dailyImageDisplay",
+            "vars": {
+                "x": 30,
+                "y": 15
+            }
+        }
+    ]
+}
