@@ -1,12 +1,16 @@
 {
-    "dlcs": ["week8", "week9"],
+    "dlc_list": ["week8", "week9"],
+    "dlc_files": {
+        "week8": [],
+        "week9": []
+    },
 
     "layouts": [
         {
             "obj": "dailyImageDisplay",
             "vars": {
-                "x": 30,
-                "y": 15
+                "x": 0,
+                "y": 0
             }
         }
     ]
