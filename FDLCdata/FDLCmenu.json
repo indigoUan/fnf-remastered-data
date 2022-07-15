@@ -12,6 +12,12 @@
                 "x": 40,
                 "y": 20
             }
+        },
+        {
+            "obj": "dailyImageDisplay.label",
+            "vars": {
+                "y": 160
+            }
         }
     ]
 }
