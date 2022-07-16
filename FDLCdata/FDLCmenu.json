@@ -1,8 +1,19 @@
 {
-    "dlc_list": ["week8", "week9"],
+    "dlc_list": ["infectious_invitation"],
+    "dlc_descriptions": {
+        "infectious_invitation": ""
+    },
     "dlc_files": {
-        "week8": [],
-        "week9": []
+        "infectious_invitation": {
+            "images": [
+                "icons/robro", "icons/bf-new", "num0", "num1", "num2", "num3", "num4", "num5", "num6", "num7", "num8", "num9",
+                "bg1", "bridge", "pool", "pool2", "waterfall"
+            ],
+            "characters": ["bf-new", "gf-new", "robro"],
+            "sounds": [],
+            "songs": ["cat-walk", "furmidable", "scratch"],
+            "with_scripts": []
+        }
     },
 
     "layouts": [
